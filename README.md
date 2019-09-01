@@ -18,3 +18,8 @@ e.g. "con G"
 
 3. When you select one of the results, the pure number will be copied into clipboard.
 
+## Upadate 01/09/2019
+After upgrading alfred from 3.1* to 3.2*, this work flow has been abandoned.
+But to have a relatively quick search of those constants, I uploaded a workflow to open a website of the constants.
+
+Yes, I know it sounds stupid. But it works whatever.
